@@ -76,14 +76,18 @@ Essas visualizações permitem avaliar **comportamento dos pedidos**, **preferê
 
 ## 📷 Prints do Projeto
 
-> Adicione aqui imagens da base, tabelas dinâmicas e gráficos
+### Base de Dados
+![Base de Dados](imagens/tabela.png)
 
-Sugestão de prints:
+### Tabelas Dinâmicas
+![Tabela Dinâmica](imagens/dinamica1.png)
+(imagens/dinamica2.png) 
 
-* Base de dados estruturada
-* Tabela dinâmica de pedidos por tempo
-* Gráficos de evolução mensal
-* Distribuição por modalidade de entrega
+### Evolução Mensal de Pedidos
+![Evolução](imagens/indicador_principal.png)
+
+### Gráficos
+![Gráficos](imagens/graficos.png)
 
 ---
 

@@ -77,17 +77,16 @@ Essas visualizações permitem avaliar **comportamento dos pedidos**, **preferê
 ## 📷 Prints do Projeto
 
 ### Base de Dados
-![Base de Dados](imagens/tabela.png)
+![Base de Dados](tabela.png)
 
 ### Tabelas Dinâmicas
-![Tabela Dinâmica](imagens/dinamica1.png)
-(imagens/dinamica2.png) 
+![Tabela Dinâmica](dinamica1.png)
 
 ### Evolução Mensal de Pedidos
-![Evolução](imagens/indicador_principal.png)
+![Evolução](indicador_principal.png)
 
 ### Gráficos
-![Gráficos](imagens/graficos.png)
+![Gráficos](graficos.png)
 
 ---
 
